@@ -32,6 +32,7 @@
 |**Version**|**Comment**|**Date**|
 | :- | :- | :- |
 |v1.0|First version|16/02/24|
+|v1.1|Add RX power gain option |13/09/24|
 
 #
 
@@ -152,7 +153,10 @@ miotyGO installer will deploy a configuration file in JSON format on **/etc/miot
 
 - Service Center host
 - Service Center port
+- RX power gain
 - Mioty Region
+
+RX power gain is set as default to 100, but can be modified depending of the requirements of the test and the hardware used.
 
 Open **/etc/miotyGO/config.json** and fill your own configuration. These are the available choices for Mioty regions:
 
