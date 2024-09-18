@@ -32,7 +32,7 @@
 |**Version**|**Comment**|**Date**|
 | :- | :- | :- |
 |v1.0|First version|16/02/24|
-|v1.1|Add RX power gain option |13/09/24|
+|v1.0.1|Add RX power gain option |13/09/24|
 
 #
 
