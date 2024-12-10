@@ -33,6 +33,7 @@
 | :- | :- | :- |
 |v1.0|First version|16/02/24|
 |v1.1|Add RX power gain option |13/09/24|
+|v1.2|Embedd Add libRspTransceiverDevice-0.8.so into installer |10/12/24|
 
 #
 
