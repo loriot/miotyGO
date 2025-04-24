@@ -52,12 +52,12 @@ miotyGO works as a base station in a mioty rig. After the software installation,
 
 # Hardware
 
-miotyGo is available for different platforms such as aarch64 (Raspberry Pi) or x86_64 such as a personal computer running LINUX. In order to be able to receive the uplink, you will need a receiver device, in this case, miotyGO works with SDRPlay RSP1A device.
+miotyGo is available for different platforms such as aarch64 (Raspberry Pi) or x86_64 such as a personal computer running LINUX. In order to be able to receive the uplink, you will need a receiver device, in this case, miotyGO works with SDRPlay RSP1A/RSP1B device.
 
 **Hardware required:**
 
 - Computer/Raspberry Pi 3-4 or 5
-- SDRPlay RSP1A
+- SDRPlay RSP1A/RSP1B
 - Antenna for the used frequency band.
 
 # Installation
